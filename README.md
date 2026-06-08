@@ -47,7 +47,7 @@
 ✦ Auto roles & reaction roles
 ✦ Custom commands
 ✦ Scheduled announcements
-✦ Leveling, XP & rank rewards
+✦ Leveling, XP & Achievment system
 ✦ Utility tools & help system
 ```
 
