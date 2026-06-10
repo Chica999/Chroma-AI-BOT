@@ -109,7 +109,6 @@
 </tr>
 </table>
 
-> 📁 Place `rank_card_preview.png` and `leaderboard_preview.png` inside an `assets/` folder in the repo root for these to display.
 
 ---
 
